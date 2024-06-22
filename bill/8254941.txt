@@ -1,0 +1,25 @@
+
+		Electronic Sales-Inventory
+	 Phone No. 8551080719 , Mumbai-400029
+===============================================
+ Customer Name: Aditi Sharma
+ Ph No. :9325858541
+ Invoice No. 8254941			Date: 08/08/2021 
+===============================================
+ Product Name			Qty	Price
+===============================================
+        
+ Godrej-Automatic Washing machine			1	Rs.13000.0   
+===============================================
+ Bill Amount				Rs.13000.0
+ Discount				Rs.650.0
+ Net Pay				Rs.12350.0
+===============================================
+
+        
+ *Goods once sold will not be taken back
+ *1 Year warranty from invoice date
+ *Terms & Conditions applied
+===============================================
+      
+        

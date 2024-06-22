@@ -1,0 +1,26 @@
+
+		Electronic Sales-Inventory
+	 Phone No. 8551080719 , Mumbai-400029
+===============================================
+ Customer Name: Gautami
+ Ph No. :8520126398
+ Invoice No. 11083639			Date: 11/08/2021 
+===============================================
+ Product Name			Qty	Price
+===============================================
+        
+ Boat Headphones			1	Rs.1500.0   
+===============================================
+ Bill Amount				Rs.1500.0
+ Discount				Rs.75.0
+ Net Pay				Rs.1425.0
+===============================================
+
+        
+ Delivery status:Delivery charges     
+ *Goods once sold will not be taken back
+ *1 Year warranty from invoice date
+ *Terms & Conditions applied
+===============================================
+      
+        

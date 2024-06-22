@@ -1,0 +1,26 @@
+
+		Electronic Sales-Inventory
+	 Phone No. 8551080719 , Mumbai-400029
+===============================================
+ Customer Name: Asha Jadhav
+ Ph No. :7852419632
+ Invoice No. 28223554			Date: 28/09/2021 
+===============================================
+ Product Name			Qty	Price
+===============================================
+        
+ Samsung microwave			1	Rs.5500.0   
+===============================================
+ Bill Amount				Rs.5500.0
+ GST				Rs.990.0
+ Net Pay				Rs.6490.0
+===============================================
+
+        
+ Delivery status:Free delivery     
+ *Goods once sold will not be taken back
+ *1 Year warranty from invoice date
+ *Terms & Conditions applied
+===============================================
+      
+        

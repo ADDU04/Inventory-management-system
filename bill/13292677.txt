@@ -1,0 +1,26 @@
+
+		Electronic Sales-Inventory
+	 Phone No. 8551080719 , Mumbai-400029
+===============================================
+ Customer Name: Akanksha nikam
+ Ph No. :7852416352
+ Invoice No. 13292677			Date: 13/08/2021 
+===============================================
+ Product Name			Qty	Price
+===============================================
+        
+ Boat Headphones			1	Rs.1500.0   
+===============================================
+ Bill Amount				Rs.1500.0
+ Discount				Rs.75.0
+ Net Pay				Rs.1425.0
+===============================================
+
+        
+ Delivery status:None     
+ *Goods once sold will not be taken back
+ *1 Year warranty from invoice date
+ *Terms & Conditions applied
+===============================================
+      
+        
